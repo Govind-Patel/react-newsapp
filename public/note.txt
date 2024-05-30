@@ -1,0 +1,8 @@
+1. npx create-reat-app app-name
+2. class base component rcc== rce
+3. class base component and proptype
+    cmd ==== rcep
+4. news api 
+    https://newsapi.org/docs/endpoints/everything
+5. create spinner gif online 
+6. npm i react-router-dom
