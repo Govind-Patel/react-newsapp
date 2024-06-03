@@ -6,3 +6,7 @@
     https://newsapi.org/docs/endpoints/everything
 5. create spinner gif online 
 6. npm i react-router-dom
+7. infinite scroll bar
+    npm i react-infinite-scroll-component
+8. recat top loading bar
+    npm i react-top-loading-bar
